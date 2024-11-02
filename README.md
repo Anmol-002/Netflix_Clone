@@ -26,3 +26,9 @@ A simplified clone of the Netflix platform, allowing users to explore a curated 
    git clone [https://github.com/yourusername/netflix-clone.git](https://github.com/Anmol-002/Netflix_Clone)
    cd netflix-clone
    npm install
+
+
+![image](https://github.com/user-attachments/assets/2383033e-6dad-4552-a7b9-85a89cbc1ae5)
+![image](https://github.com/user-attachments/assets/060661e4-3f1d-403b-b6c6-ae968181d74c)
+![image](https://github.com/user-attachments/assets/bb064627-fe94-4325-831f-8f99ca513ed3)
+![image](https://github.com/user-attachments/assets/d343d04d-5977-447e-8089-eddd5757b9ec)
